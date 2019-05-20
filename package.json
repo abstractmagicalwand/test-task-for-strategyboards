@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "eslint *.js && jest"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.13.0"
+  }
+}
